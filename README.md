@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on anything related to programming
 
-<h1 align=center>Things I have ever learn</h1>
+<h1 align=center>📚 Things I have ever learn</h1>
 
 <p align=left>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
