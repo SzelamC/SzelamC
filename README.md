@@ -3,7 +3,7 @@
 **SzelamC/SzelamC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 [My Website](https://szelamc.github.io/szelam.io/)
+- 💻 [My Website](https://szelamc.github.io/)
 - 🔭 I’m currently working on exploring different technology
 - 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on anything related to programming
